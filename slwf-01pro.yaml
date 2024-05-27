@@ -8,7 +8,7 @@ substitutions:
   wifi_ap_ssid: "AC-wifi"
   wifi_ap_password: "slwf01pro"
   
-  midea_beeper: true
+  midea_beeper: "true"
   visual_min_temperature: "17 °C"
   visual_max_temperature: "30 °C"
   visual_temperature_step: "0.5 °C"
